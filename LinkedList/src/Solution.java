@@ -1,7 +1,7 @@
 
 public class Solution {
   
- /*
+ /* This soln is incorrect because of not using dummy
   *  61. Rotate List. See how if k is more is handled
   *  Given a list, rotate the list to the right by k places, where k is non-negative.
 
